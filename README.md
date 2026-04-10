@@ -8,6 +8,11 @@ This is an Android application developed using Kotlin and SQLite.
 - Stores data using SQLite
 - Displays user information
 
+ ## Technologies Used
+- Kotlin
+- SQLite
+- Android Studio
+
 ## Screenshots
 
 ### Login Page
